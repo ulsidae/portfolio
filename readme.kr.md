@@ -195,10 +195,10 @@
 
 </details>
 
-<h3 id="translate_system_test">deep_translator(GoogleTranslator API wrapper)를 통해 한국어-영어 번역 시스템을 설계해보았습니다</h3>
+<h3 id="translate_system_test">translate system test</h3>
 
 <details>
-<summary><strong>번역기 아이디어</strong></summary>
+<summary><strong>deep_translator(GoogleTranslator API wrapper)를 통해 한국어-영어 번역 시스템을 설계해보았습니다</strong></summary>
 
 > [translate system test](https://github.com/ulsidae/dev_logs/tree/main/AI/translate%20system%20test)
   
