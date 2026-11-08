@@ -108,7 +108,7 @@
 
 #### cori_tts 이전
 
-> (My own voice TTS)[https://github.com/ulsidae/dev_logs/tree/main/AI/My%20own%20voice%20TTS]
+> [My own voice TTS](https://github.com/ulsidae/dev_logs/tree/main/AI/My%20own%20voice%20TTS)
 
 - .wav 형식의 파일을 넣고 이를 재생하는 방식을 활용했습니다.
 - @(at sign)을 활용해 0.1초 출력을 정지하는 기능을 통해 원시적인 파서(parser)를 구현했습니다.
